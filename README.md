@@ -108,3 +108,7 @@ Thanks for stopping by, and feel free to reach out if you want to swap coding ti
 />
 <br/>
 ![](https://komarev.com/ghpvc/?username=A-Fanton)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Fanton)]
+
