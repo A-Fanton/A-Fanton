@@ -80,14 +80,14 @@
       <br /><strong>Firebase</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="http://www.w3.org/2000/svg"
-        width="48"
-        height="48"
-        alt="AWS"
-      />
-      <br /><strong>AWS</strong>
-    </td>
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg"    
+    width="48"
+    height="48"
+    alt="AWS"
+  />
+  <br /><strong>AWS</strong>
+</td>
   </tr>
 </table>
 
@@ -97,7 +97,7 @@
   src="https://github-readme-stats.vercel.app/api?username=A-Fanton&show_icons=true&theme=react&&hide_border=true"
 />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=A-Fanton&&theme=react&&hide_border=true"
+  src="https://streak-stats.demolab.com?user=A-Fanton&theme=react&hide_border=true"
 />
 <br/>
 ![](https://komarev.com/ghpvc/?username=A-Fanton)
