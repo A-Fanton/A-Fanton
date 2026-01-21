@@ -1,12 +1,5 @@
 # 👋 Hey there!
 
-I'm Andy, a software engineering student and self-proclaimed JavaScript fanatic. When I'm not slaying coding challenges, you can usually find me perfecting my lasagna recipe or battling it out in my favorite video games.
-
-My passion for learning is what led me to pursue a career in software engineering and as a PERN stack ninja, I'm always on the lookout for new technologies and frameworks to conquer. 
-
-Thanks for stopping by, and feel free to reach out if you want to swap coding tips or lasagna recipes. Let's conquer the tech world (and the kitchen!) together!
-
-
 <br/><a href="https://www.linkedin.com/in/andreacorreafantoni/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:andrealuciacf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
